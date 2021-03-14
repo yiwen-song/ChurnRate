@@ -5,9 +5,9 @@ PowerCo is a major gas and electricity utility that supplies to corporate, SME (
 ## Data Source
 The datasets are downloaded from [BCG Open-Access Data Science & Advanced Analytics Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/GAMMA-Virtual-Experience-Program?ref=bbzMdAupS8YnE3DsR)
 The datasets include:
-Historical customer data: Customer data such as usage, sign up date, forecasted usage, etc
-Historical pricing data: variable and fixed pricing data etc
-Churn indicator: whether each customer has churned or not
+- Historical customer data: Customer data such as usage, sign up date, forecasted usage, etc
+- Historical pricing data: variable and fixed pricing data etc
+- Churn indicator: whether each customer has churned or not
 
 ## Task 1 Exploratory Data Analysis & Data Cleaning
 In this task, the data was cleaned by addressing missing values, duplicates, data type conversions, transformations, and multicolinearity, as well as outliers. 
